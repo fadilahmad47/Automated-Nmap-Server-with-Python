@@ -77,12 +77,6 @@ Love the tool? Fork it, tweak it (e.g., add JSON output or email alerts), and op
 
 MIT License—free to use, modify, and distribute. See [LICENSE](LICENSE) for details.
 
-## 👨‍💻 About the Creator
-
-**Cyber Razz**  
-Cybersecurity enthusiast, builder, and content creator.  
-🔗 [Follow on X](https://x.com/cyber_razz)  
-📺 [Subscribe on YouTube](https://youtube.com/@cyber_razz)
 
 ---
 
